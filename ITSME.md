@@ -4,7 +4,7 @@
   Game Design and game development
 - 📫 How to reach me...
   My LinkedIn URL : https://www.linkedin.com/in/alpgorusuk/
-  My portfolio URL :[ https://play.google.com/store/apps/dev?id=6092611799022643088](https://alpgorusuk.wordpress.com/)
+  My portfolio URL : https://alpgorusuk.wordpress.com
 
 <!---
 AlpGorusuk/AlpGorusuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
